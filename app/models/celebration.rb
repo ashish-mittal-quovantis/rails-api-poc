@@ -1,0 +1,3 @@
+class Celebration < Announcement
+
+end

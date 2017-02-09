@@ -1,0 +1,3 @@
+class Appreciation < Announcement
+
+end
